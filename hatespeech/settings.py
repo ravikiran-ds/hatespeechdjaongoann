@@ -29,7 +29,7 @@ csv1=STATIC_DIR+"/csv/hate_headers2.csv"
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '_7s-o*@h#r!!7uq1v0=-phh9=k=#3iadtegla2dr35f-14g^-('
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
